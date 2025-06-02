@@ -13,8 +13,11 @@ The App also gets powered by three different searching algorithms
 - Word2Vec model trained on job names extracted and then matched on cosine similarity
 - LLM based tokenization and then matched on cosine similarity
 
+## String Match
 ![string_match](https://github.com/Vishaldawar/autocomplete-jobnames/blob/main/pictures/string_match.png)
 
+## Embedding Match - Word2Vec
 ![embedding_match](https://github.com/Vishaldawar/autocomplete-jobnames/blob/main/pictures/embedding_match.png)
 
+## LLM Similarity Match
 ![llm_similarity_match](https://github.com/Vishaldawar/autocomplete-jobnames/blob/main/pictures/llm_similarity_match.png)
